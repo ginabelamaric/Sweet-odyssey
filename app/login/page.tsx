@@ -38,7 +38,7 @@ const Login: React.FC = () => {
         <br />
         <button type="submit">LOG IN</button>
         <p>
-          Don't have an account? <Link to="/signup">Sign up.</Link>
+          Dont have an account? <Link to="/signup">Sign up.</Link>
         </p>
       </form>
     </div>
